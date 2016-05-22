@@ -1,0 +1,16 @@
+{
+  "name": "arraydiff",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": ["array", "compare", "diff"],
+  "author": "Egon Schmid",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "coffee-script": "^1.10.0"
+  }
+}
