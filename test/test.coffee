@@ -46,3 +46,11 @@ both = ['C', 'D']
 right = ['E', 'F']
 union = ['A', 'B', 'C', 'D', 'E', 'F']
 test a1, a2, left, both, right, union
+
+a1 = ['A', 'A', 'B', 'C', 'C', 'D']
+a2 = ['C', 'D', 'D', 'E', 'F', 'F']
+left = ['A', 'A', 'B', 'C']
+both = ['C', 'D']
+right = ['D', 'E', 'F', 'F']
+union = ['A', 'A', 'B', 'C', 'C', 'D', 'D', 'E', 'F', 'F']
+test a1, a2, left, both, right, union
