@@ -1,3 +1,3 @@
-# arraydiff
+# arraytools
 
-compare two arrays
+some helper functions for arrays

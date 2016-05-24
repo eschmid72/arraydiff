@@ -1,0 +1,1 @@
+shuffle = require('../index').shuffle

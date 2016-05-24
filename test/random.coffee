@@ -1,0 +1,1 @@
+random = require('../index').random

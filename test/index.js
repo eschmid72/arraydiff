@@ -1,2 +1,6 @@
 require('coffee-script').register();
-require('./test')
+
+require('./arraydiff');
+require('./random');
+require('./shuffle');
+require('./clone');
